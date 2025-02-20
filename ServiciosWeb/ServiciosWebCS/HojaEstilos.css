@@ -1,0 +1,30 @@
+﻿#form1{
+    justify-items: center;
+    margin: 7px;
+    
+}
+
+.info {
+    display: inline-flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.info > *{
+    margin: 5px;
+    padding: 5px;
+
+}
+
+button {
+    background-color: #c4c4c4bf;
+}
+
+#lblResultado {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
