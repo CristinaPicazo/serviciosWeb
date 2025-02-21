@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{43674E2C-3ACF-4707-9F73-8FA43F24389E}|ServiciosWebCS\\ServiciosWebCS.csproj|solutionrelative:servicioswebcs\\hojaestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43674E2C-3ACF-4707-9F73-8FA43F24389E}|ServiciosWebCS\\ServiciosWebCS.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\serviciosweb\\serviciosweb\\servicioswebcs\\ejercicio1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{43674E2C-3ACF-4707-9F73-8FA43F24389E}|ServiciosWebCS\\ServiciosWebCS.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\ServiciosWeb\\servicioswebcs\\ejercicio1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{43674E2C-3ACF-4707-9F73-8FA43F24389E}|ServiciosWebCS\\ServiciosWebCS.csproj|solutionrelative:servicioswebcs\\ejercicio1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43674E2C-3ACF-4707-9F73-8FA43F24389E}|ServiciosWebCS\\ServiciosWebCS.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\serviciosweb\\serviciosweb\\servicioswebcs\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{43674E2C-3ACF-4707-9F73-8FA43F24389E}|ServiciosWebCS\\ServiciosWebCS.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\ServiciosWeb\\servicioswebcs\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{43674E2C-3ACF-4707-9F73-8FA43F24389E}|ServiciosWebCS\\ServiciosWebCS.csproj|solutionrelative:servicioswebcs\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43674E2C-3ACF-4707-9F73-8FA43F24389E}|ServiciosWebCS\\ServiciosWebCS.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\serviciosweb\\serviciosweb\\servicioswebcs\\ejercicio1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43674E2C-3ACF-4707-9F73-8FA43F24389E}|ServiciosWebCS\\ServiciosWebCS.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\ServiciosWeb\\servicioswebcs\\ejercicio1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43674E2C-3ACF-4707-9F73-8FA43F24389E}|ServiciosWebCS\\ServiciosWebCS.csproj|solutionrelative:servicioswebcs\\ejercicio1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -55,8 +55,7 @@
               "RelativeToolTip": "ServiciosWebCS\\Ejercicio1.aspx.cs",
               "ViewState": "AgIAABYAAAAAAAAAAADwvxsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T08:34:18.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T08:34:18.128Z"
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "ServiciosWebCS\\Ejercicio1.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-02-19T18:56:21.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T18:56:21.723Z"
             }
           ]
         }
