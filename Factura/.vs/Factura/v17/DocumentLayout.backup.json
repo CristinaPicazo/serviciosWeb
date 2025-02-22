@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\Factura\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9E83DDCD-91BC-428E-B83F-6325EA8FFC22}|GesFactura\\GesFactura.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\serviciosweb\\factura\\gesfactura\\lineasfactura.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E83DDCD-91BC-428E-B83F-6325EA8FFC22}|GesFactura\\GesFactura.csproj|solutionrelative:gesfactura\\lineasfactura.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FacturaWS||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GesFactura||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E83DDCD-91BC-428E-B83F-6325EA8FFC22}|GesFactura\\GesFactura.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\serviciosweb\\factura\\gesfactura\\lineasfactura.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9E83DDCD-91BC-428E-B83F-6325EA8FFC22}|GesFactura\\GesFactura.csproj|solutionrelative:gesfactura\\lineasfactura.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E83DDCD-91BC-428E-B83F-6325EA8FFC22}|GesFactura\\GesFactura.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\serviciosweb\\factura\\gesfactura\\estilos\\hojaestilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9E83DDCD-91BC-428E-B83F-6325EA8FFC22}|GesFactura\\GesFactura.csproj|solutionrelative:gesfactura\\estilos\\hojaestilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D9C274C-3813-4D6E-B7E3-EC8EF79C19D6}|FacturaWS\\FacturaWS.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\serviciosweb\\factura\\facturaws\\calculosfacturaws.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D9C274C-3813-4D6E-B7E3-EC8EF79C19D6}|FacturaWS\\FacturaWS.csproj|solutionrelative:facturaws\\calculosfacturaws.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9C274C-3813-4D6E-B7E3-EC8EF79C19D6}|FacturaWS\\FacturaWS.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\serviciosweb\\factura\\facturaws\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E83DDCD-91BC-428E-B83F-6325EA8FFC22}|GesFactura\\GesFactura.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\serviciosweb\\factura\\gesfactura\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,7 +46,70 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GesFactura",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\Factura\\GesFactura\\GesFactura.csproj",
+              "RelativeDocumentMoniker": "GesFactura\\GesFactura.csproj",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\Factura\\GesFactura\\GesFactura.csproj*",
+              "RelativeToolTip": "GesFactura\\GesFactura.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-22T21:49:19.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaWS",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\Factura\\FacturaWS\\FacturaWS.csproj",
+              "RelativeDocumentMoniker": "FacturaWS\\FacturaWS.csproj",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\Factura\\FacturaWS\\FacturaWS.csproj*",
+              "RelativeToolTip": "FacturaWS\\FacturaWS.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-22T21:48:27.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LineasFactura.aspx.cs",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\Factura\\GesFactura\\LineasFactura.aspx.cs",
+              "RelativeDocumentMoniker": "GesFactura\\LineasFactura.aspx.cs",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\Factura\\GesFactura\\LineasFactura.aspx.cs",
+              "RelativeToolTip": "GesFactura\\LineasFactura.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswBcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:51:51.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HojaEstilo.css",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\Factura\\GesFactura\\Estilos\\HojaEstilo.css",
+              "RelativeDocumentMoniker": "GesFactura\\Estilos\\HojaEstilo.css",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\Factura\\GesFactura\\Estilos\\HojaEstilo.css",
+              "RelativeToolTip": "GesFactura\\Estilos\\HojaEstilo.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-22T16:17:12.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LineasFactura.aspx",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\Factura\\GesFactura\\LineasFactura.aspx",
+              "RelativeDocumentMoniker": "GesFactura\\LineasFactura.aspx",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\Factura\\GesFactura\\LineasFactura.aspx",
+              "RelativeToolTip": "GesFactura\\LineasFactura.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-22T15:56:13.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CalculosFacturaWS.asmx.cs",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\Factura\\FacturaWS\\CalculosFacturaWS.asmx.cs",
               "RelativeDocumentMoniker": "FacturaWS\\CalculosFacturaWS.asmx.cs",

@@ -1,0 +1,8 @@
+﻿form {
+    place-items: center;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+}
