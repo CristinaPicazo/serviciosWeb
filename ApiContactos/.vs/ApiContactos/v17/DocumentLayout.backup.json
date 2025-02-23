@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\ApiContactos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47282B05-9A97-4F67-BC5B-3B297308428C}|ApiContactos\\ApiContactos.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\serviciosweb\\apicontactos\\apicontactos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47282B05-9A97-4F67-BC5B-3B297308428C}|ApiContactos\\ApiContactos.csproj|solutionrelative:apicontactos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47282B05-9A97-4F67-BC5B-3B297308428C}|ApiContactos\\ApiContactos.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\serviciosweb\\apicontactos\\apicontactos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47282B05-9A97-4F67-BC5B-3B297308428C}|ApiContactos\\ApiContactos.csproj|solutionrelative:apicontactos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47282B05-9A97-4F67-BC5B-3B297308428C}|ApiContactos\\ApiContactos.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\serviciosweb\\apicontactos\\apicontactos\\models\\apicontactoscontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47282B05-9A97-4F67-BC5B-3B297308428C}|ApiContactos\\ApiContactos.csproj|solutionrelative:apicontactos\\models\\apicontactoscontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47282B05-9A97-4F67-BC5B-3B297308428C}|ApiContactos\\ApiContactos.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\serviciosweb\\apicontactos\\apicontactos\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47282B05-9A97-4F67-BC5B-3B297308428C}|ApiContactos\\ApiContactos.csproj|solutionrelative:apicontactos\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\ApiContactos\\ApiContactos\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiContactos\\appsettings.json",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\ApiContactos\\ApiContactos\\appsettings.json",
+              "RelativeToolTip": "ApiContactos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T20:57:02.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\ApiContactos\\ApiContactos\\Program.cs",
+              "RelativeDocumentMoniker": "ApiContactos\\Program.cs",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\ApiContactos\\ApiContactos\\Program.cs",
+              "RelativeToolTip": "ApiContactos\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T20:54:24.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiContactosContexto.cs",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\ApiContactos\\ApiContactos\\Models\\ApiContactosContexto.cs",
+              "RelativeDocumentMoniker": "ApiContactos\\Models\\ApiContactosContexto.cs",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\ApiContactos\\ApiContactos\\Models\\ApiContactosContexto.cs",
+              "RelativeToolTip": "ApiContactos\\Models\\ApiContactosContexto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:17:42.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\ApiContactos\\ApiContactos\\Models\\Contacto.cs",
+              "RelativeDocumentMoniker": "ApiContactos\\Models\\Contacto.cs",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\ServiciosWeb\\ApiContactos\\ApiContactos\\Models\\Contacto.cs",
+              "RelativeToolTip": "ApiContactos\\Models\\Contacto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:04:29.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
